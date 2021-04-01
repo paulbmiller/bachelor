@@ -1,1 +1,2 @@
-"# bachelor" 
+# bachelor
+For my bachelor thesis, I worked on the Dropout method for regularizing Neural Networks. Specifically, I tried using Dropout at test time by aggregating the outputs of multiple forward passes using different methods. The results showed some minimal improvement in accuracy on the classification tasks I worked with, but it was very computationally expensive.
